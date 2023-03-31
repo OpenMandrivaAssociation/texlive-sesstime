@@ -1,6 +1,6 @@
 Name:		texlive-sesstime
 Version:	49750
-Release:	1
+Release:	2
 Summary:	Session and timing information in lecture notes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sesstime
